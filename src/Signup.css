@@ -1,0 +1,20 @@
+.signup {
+  margin-top: -3.5rem;
+  animation: fadeIn 2.5s;
+  opacity: 1;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.submit-btn {
+  background-color: rgb(81, 255, 72);
+  border-color: rgba(38, 38, 38, 0);
+  font-size: 17px;
+}
